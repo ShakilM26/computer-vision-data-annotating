@@ -6,7 +6,7 @@ This project demonstrates manual image annotation for license plate detection us
 - Annotated images of vehicles to identify and label license plates.
 - Created bounding boxes using Roboflow’s browser-based annotation tool.
 - Organized dataset for object detection tasks.
-- Exported dataset in YOLOv8 and COCO JSON formats.
+- Exported dataset in YOLOv9 formats.
 
 ## 📁 Files
 - `annotated_images/`: Sample annotated images.
