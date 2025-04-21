@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['1_taka', '2_taka', '5_taka']
+
+roboflow:
+  workspace: license-9pbbv
+  project: coins-detection-tvliy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/license-9pbbv/coins-detection-tvliy/dataset/1
