@@ -1,0 +1,4 @@
+An example picture from the animal classification dataset depicting a cat
+An example picture from the animal classification dataset depicting a chicken
+An example picture from the animal classification dataset depicting a cow
+An example picture from the animal classification dataset depicting a goat
